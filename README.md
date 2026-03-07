@@ -1,5 +1,9 @@
 # apk-upgrade
 
+![Shell](https://img.shields.io/badge/shell-POSIX-blue)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-25.x-green)
+![License](https://img.shields.io/github/license/kongvut/apk-upgrade)
+
 List and upgrade **OpenWrt packages using APK (Alpine Package Keeper)**.
 
 A small **POSIX shell / ash utility** that makes it easier to check and upgrade packages on **OpenWrt 25.12+**, where the package manager has changed from **opkg → apk**.
