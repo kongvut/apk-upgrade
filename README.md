@@ -115,8 +115,7 @@ apk-upgrade --force
 ## Clone repository
 
 ```
-git clone https://github.com/kongvut/apk-upgrade.git
-cd apk-upgrade
+wget https://raw.githubusercontent.com/kongvut/apk-upgrade/main/apk-upgrade.sh
 chmod +x apk-upgrade.sh
 ```
 
