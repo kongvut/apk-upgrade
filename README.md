@@ -30,7 +30,7 @@ This script provides a **simple replacement** for those workflows using:
 
 ```
 apk update
-apk version -l '<'
+apk version -l
 apk upgrade
 ```
 
